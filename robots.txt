@@ -1,4 +1,7 @@
-User-agent: *
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Scholar
 Allow: /
 
 Sitemap: https://sabirnasirmujawar.github.io/sitemap.xml
